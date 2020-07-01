@@ -1,4 +1,4 @@
 # hello-world
-just what GitHub demanded...
+just what GitHub demanded
 
 making some changes
